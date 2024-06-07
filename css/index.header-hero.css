@@ -1,0 +1,10 @@
+.outer {
+    min-height: 200px;
+    background-color: var(--background-color);
+    padding: 40px;
+}
+
+.inner {
+    min-height: 100px;
+    background-color: var(--background-color-light);
+}
